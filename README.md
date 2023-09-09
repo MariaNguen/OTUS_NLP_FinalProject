@@ -56,3 +56,6 @@ Predictions made by the best model were submitted for the [competition leaderboa
 |ruT5 (competition baseline)|n/a|none|0.80|0.83|0.84|0.56|0.57|
 |ruPrompts (competition baseline)|n/a|none|0.81|0.79|0.80|0.53|0.55|
 |Dalete (competition baseline)|n/a|none|0.56|0.89|0.85|0.41|0.53|
+
+## Telegram bot
+The best model can be tested via the telegram bot available [here](https://t.me/detoxify_bot).
